@@ -1,0 +1,20 @@
+de/tech26/robotfactory/Repository/RobotRepository.java
+ de.tech26.robotfactory.Repository.RobotRepository
+ de.tech26.robotfactory.Repository.RobotRepository$1
+ de.tech26.robotfactory.Repository.RobotRepository$2
+ de.tech26.robotfactory.Repository.RobotRepository$3
+ de.tech26.robotfactory.Repository.RobotRepository$4
+de/tech26/robotfactory/Controller/RobotFactoryController.java
+ de.tech26.robotfactory.Controller.RobotFactoryController
+de/tech26/robotfactory/RobotFactoryApplication.java
+ de.tech26.robotfactory.RobotFactoryApplication
+de/tech26/robotfactory/Controller/InputValidatorInterface.java
+ de.tech26.robotfactory.Controller.InputValidatorInterface
+de/tech26/robotfactory/Model/Product.java
+ de.tech26.robotfactory.Model.Product
+de/tech26/robotfactory/Repository/RobotRepositoryInter.java
+ de.tech26.robotfactory.Repository.RobotRepositoryInter
+de/tech26/robotfactory/Service/RobotTempService.java
+ de.tech26.robotfactory.Service.RobotTempService
+de/tech26/robotfactory/Controller/RequestData.java
+ de.tech26.robotfactory.Controller.RequestData

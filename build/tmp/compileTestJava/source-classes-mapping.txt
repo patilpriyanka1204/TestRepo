@@ -1,0 +1,10 @@
+de/tech26/robotfactory/acceptance/OrderARobotAcceptanceTest.java
+ de.tech26.robotfactory.acceptance.OrderARobotAcceptanceTest
+de/tech26/robotfactory/acceptance/RobotRepositoryTest.java
+ de.tech26.robotfactory.acceptance.RobotRepositoryTest
+de/tech26/robotfactory/acceptance/RobotServiceTest.java
+ de.tech26.robotfactory.acceptance.RobotServiceTest
+ de.tech26.robotfactory.acceptance.RobotServiceTest$1
+ de.tech26.robotfactory.acceptance.RobotServiceTest$2
+ de.tech26.robotfactory.acceptance.RobotServiceTest$3
+ de.tech26.robotfactory.acceptance.RobotServiceTest$4
