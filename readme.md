@@ -32,6 +32,7 @@ G      55.13     15	       Mobility with Legs
 H      50.00     7	       Mobility with Tracks
 I      90.12	 92	       Material Bioplastic
 J      82.31	 15	       Material Metallic
+L      85.31	 14	       Arms with Grippers
 ```
 
 Given a list of part codes, implement a robot creation order:
