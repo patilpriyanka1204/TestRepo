@@ -38,6 +38,7 @@ public class RobotRepository implements RobotRepositoryInter {
     @Value("classpath:${filepath}")
     String filepath;
 
+    //create object mapper
     private ObjectMapper om = new ObjectMapper();
 
     public Product[] getRepo(){
